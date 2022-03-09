@@ -26,16 +26,31 @@ namespace FlightTicketReservation.Controllers{
         public IActionResult login(){
             return View();
         }
-        [HttpPost]
-        public IActionResult login(admin ad){
+        public class AccountNotFoundException:ApplicationException{
+            public AccountNotFoundException(string message):base(message){
+
+            }
+        }
+        public void check(admin ad){
             if(ad.name=="admin" && ad.password=="1234"){
-                HttpContext.Session.SetInt32("aid",12);
-                HttpContext.Session.SetString("adname","admin");
-                return RedirectToAction("home");
+                return ;
             }
             else{
+                throw new AccountNotFoundException("invalid admin credentials :/");
+            }
+        }
+        [HttpPost]
+        public IActionResult login(admin ad){
+            try{
+                
+                check(ad);
+                HttpContext.Session.SetInt32("aid",12);
+                HttpContext.Session.SetString("adname","admin");
+            }
+            catch(Exception e){
                 return RedirectToAction("login");
             }
+            return RedirectToAction("home");
         }
         
         public IActionResult home(){

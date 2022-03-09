@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\FlightTicketReservation.csproj",
+  "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\FlightTicketReservation.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,168 +15619,168 @@
   "RootNamespace": "FlightTicketReservation",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\routeDet.cshtml",
-      "TargetPath": "Views\\Admin\\routeDet.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\Details.cshtml",
-      "TargetPath": "Views\\Admin\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\home.cshtml",
-      "TargetPath": "Views\\Admin\\home.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\login.cshtml",
-      "TargetPath": "Views\\Admin\\login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\Edit.cshtml",
-      "TargetPath": "Views\\Admin\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\routeCreate.cshtml",
-      "TargetPath": "Views\\Admin\\routeCreate.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Customer\\bookingfailed.cshtml",
-      "TargetPath": "Views\\Customer\\bookingfailed.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Customer\\noroute.cshtml",
-      "TargetPath": "Views\\Customer\\noroute.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\Create.cshtml",
-      "TargetPath": "Views\\Admin\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Customer\\Details.cshtml",
-      "TargetPath": "Views\\Customer\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Customer\\book.cshtml",
-      "TargetPath": "Views\\Customer\\book.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\routeDelete.cshtml",
-      "TargetPath": "Views\\Admin\\routeDelete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Student\\Addnumbers.cshtml",
-      "TargetPath": "Views\\Student\\Addnumbers.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Customer\\login.cshtml",
-      "TargetPath": "Views\\Customer\\login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\_Layout.cshtml",
-      "TargetPath": "Views\\Admin\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Customer\\home.cshtml",
-      "TargetPath": "Views\\Customer\\home.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Customer\\getallFlights.cshtml",
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Customer\\getallFlights.cshtml",
       "TargetPath": "Views\\Customer\\getallFlights.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Customer\\Register.cshtml",
-      "TargetPath": "Views\\Customer\\Register.cshtml",
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Student\\Addnumbers.cshtml",
+      "TargetPath": "Views\\Student\\Addnumbers.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\Delete.cshtml",
-      "TargetPath": "Views\\Admin\\Delete.cshtml",
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\routeDet.cshtml",
+      "TargetPath": "Views\\Admin\\routeDet.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\getallFlights.cshtml",
-      "TargetPath": "Views\\Admin\\getallFlights.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\getallRoutes.cshtml",
-      "TargetPath": "Views\\Admin\\getallRoutes.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Customer\\getindBookings.cshtml",
-      "TargetPath": "Views\\Customer\\getindBookings.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Customer\\_Layout.cshtml",
-      "TargetPath": "Views\\Customer\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Admin\\routeEdit.cshtml",
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\routeEdit.cshtml",
       "TargetPath": "Views\\Admin\\routeEdit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\routeCreate.cshtml",
+      "TargetPath": "Views\\Admin\\routeCreate.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Customer\\book.cshtml",
+      "TargetPath": "Views\\Customer\\book.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\Details.cshtml",
+      "TargetPath": "Views\\Admin\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\routeDelete.cshtml",
+      "TargetPath": "Views\\Admin\\routeDelete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Customer\\Details.cshtml",
+      "TargetPath": "Views\\Customer\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Student\\res.cshtml",
+      "TargetPath": "Views\\Student\\res.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\getallFlights.cshtml",
+      "TargetPath": "Views\\Admin\\getallFlights.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Customer\\bookdet.cshtml",
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Customer\\bookdet.cshtml",
       "TargetPath": "Views\\Customer\\bookdet.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\Views\\Student\\res.cshtml",
-      "TargetPath": "Views\\Student\\res.cshtml",
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Customer\\bookingfailed.cshtml",
+      "TargetPath": "Views\\Customer\\bookingfailed.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Customer\\Register.cshtml",
+      "TargetPath": "Views\\Customer\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\_Layout.cshtml",
+      "TargetPath": "Views\\Admin\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Customer\\home.cshtml",
+      "TargetPath": "Views\\Customer\\home.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\Delete.cshtml",
+      "TargetPath": "Views\\Admin\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\home.cshtml",
+      "TargetPath": "Views\\Admin\\home.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\Create.cshtml",
+      "TargetPath": "Views\\Admin\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Customer\\_Layout.cshtml",
+      "TargetPath": "Views\\Customer\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Customer\\getindBookings.cshtml",
+      "TargetPath": "Views\\Customer\\getindBookings.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\Edit.cshtml",
+      "TargetPath": "Views\\Admin\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\login.cshtml",
+      "TargetPath": "Views\\Admin\\login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Customer\\login.cshtml",
+      "TargetPath": "Views\\Customer\\login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Customer\\noroute.cshtml",
+      "TargetPath": "Views\\Customer\\noroute.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\Views\\Admin\\getallRoutes.cshtml",
+      "TargetPath": "Views\\Admin\\getallRoutes.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\FlightTicketReservation.csproj": {}
+    "C:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\FlightTicketReservation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\FlightTicketReservation.csproj": {
+    "C:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\FlightTicketReservation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\FlightTicketReservation.csproj",
+        "projectUniqueName": "C:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\FlightTicketReservation.csproj",
         "projectName": "FlightTicketReservation",
-        "projectPath": "C:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\FlightTicketReservation.csproj",
+        "projectPath": "C:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\FlightTicketReservation.csproj",
         "packagesPath": "C:\\Users\\h.a.cme5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\h.a.cme5\\Desktop\\new\\FlightTicketReservation\\obj\\",
+        "outputPath": "C:\\Users\\h.a.cme5\\Desktop\\FlightTicketReservation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\h.a.cme5\\AppData\\Roaming\\NuGet\\NuGet.Config"
